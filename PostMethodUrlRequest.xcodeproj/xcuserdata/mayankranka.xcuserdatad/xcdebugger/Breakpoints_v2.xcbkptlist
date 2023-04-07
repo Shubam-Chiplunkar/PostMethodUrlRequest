@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7A693539-86C5-4849-96D9-AC4B72C2CA29"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D9CE4D6A-AC5D-4DF5-8901-F7780436BD8F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PostMethodUrlRequest/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "postData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D9CE4D6A-AC5D-4DF5-8901-F7780436BD8F - 82d35a57c5503666"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PostMethodUrlRequest.ViewController.postData() -&gt; ()"
+                  moduleName = "PostMethodUrlRequest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mayankranka/Desktop/Shubham%20Chiplunkar_Learning%20Project/PostMethodUrlRequest/PostMethodUrlRequest/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "345">
+               </Location>
+               <Location
+                  uuid = "D9CE4D6A-AC5D-4DF5-8901-F7780436BD8F - 82d35a57c5503666"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PostMethodUrlRequest.ViewController.postData() -&gt; ()"
+                  moduleName = "PostMethodUrlRequest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mayankranka/Desktop/Shubham%20Chiplunkar_Learning%20Project/PostMethodUrlRequest/PostMethodUrlRequest/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "569">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F90EFDE9-B6B8-4251-8AC4-495676A072AE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PostMethodUrlRequest/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "postData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
